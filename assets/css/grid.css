@@ -538,6 +538,7 @@
     /* Container lg */
     .container {
         --spacer: 30px;
+
         max-width: 960px;
     }
 
@@ -698,6 +699,8 @@
 @media (min-width: 1200px) {
     /* Container xl */
     .container {
+        --spacer: 30px;
+
         max-width: 1170px;
     }
 
@@ -858,6 +861,8 @@
 @media (min-width: 1400px) {
     /* Container xxl */
     .container {
+        --spacer: 30px;
+
         max-width: 1320px;
     }
 
